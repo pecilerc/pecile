@@ -11,9 +11,18 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bienvenidos a mi Portafolio" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+    Sitios Webs desarrollados </p>
+    <p>                 <a href="https://app.netlify.com/sites/storepecile">Store </a> </p>
+    <p>                 <a href="https://app.netlify.com/sites/webdecafepecile"> Pagina de Cafe </a> </p>
+    <p>                 <a href="https://app.netlify.com/sites/pecile1">Primer Pagina - Contacto </a> </p>
+    <p>    <b> Proyectos Personales </b>  </p>
+    <p>                 <a href="https://app.netlify.com/sites/lamrc">Peña La M </a> </p>
+    <p>                 <a href="https://app.netlify.com/sites/barbertrap">Barberia - BarberTrap </a> </p>
+
+    
+    </code>
         </p>
       </main>
 
